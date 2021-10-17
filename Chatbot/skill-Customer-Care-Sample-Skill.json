@@ -1,0 +1,1111 @@
+{
+  "intents": [
+    {
+      "intent": "AboutZena",
+      "examples": [
+        {
+          "text": "Are you assistant"
+        },
+        {
+          "text": "What are you?"
+        },
+        {
+          "text": "What are you Zena"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Who are you Zena"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "AccountAggregator",
+      "examples": [
+        {
+          "text": "AA"
+        },
+        {
+          "text": "Account Aggregator"
+        },
+        {
+          "text": "How do you access my data"
+        },
+        {
+          "text": "RBI AA network"
+        },
+        {
+          "text": "What is AA"
+        },
+        {
+          "text": "What is AA used For Zen Money"
+        }
+      ],
+      "description": "Description of AA"
+    },
+    {
+      "intent": "Dataconsent",
+      "examples": [
+        {
+          "text": "Can a consumer decide they don’t want to share data?"
+        },
+        {
+          "text": "Can I opt out from sharing my data"
+        },
+        {
+          "text": "I don't want to give consent for my data"
+        },
+        {
+          "text": "I don't want to share my data"
+        }
+      ],
+      "description": "data sharing info"
+    },
+    {
+      "intent": "FinancialGrowth",
+      "examples": [
+        {
+          "text": "Do i need financial growth"
+        },
+        {
+          "text": "Financial Growth"
+        },
+        {
+          "text": "How to grow financially"
+        },
+        {
+          "text": "I am not financial strong"
+        },
+        {
+          "text": "I need financial growth"
+        },
+        {
+          "text": "Is financial growth necessary"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "FinancialPlan",
+      "examples": [
+        {
+          "text": "How can I double my money"
+        },
+        {
+          "text": "How can I grow my money"
+        },
+        {
+          "text": "How should I become rich"
+        },
+        {
+          "text": "How to become rich"
+        },
+        {
+          "text": "How to grow"
+        },
+        {
+          "text": "How to manage with plan"
+        },
+        {
+          "text": "How to start a financial plan"
+        },
+        {
+          "text": "I need advice for financial planning"
+        },
+        {
+          "text": "I need financial assistant"
+        },
+        {
+          "text": "Plan for money"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "FIU",
+      "examples": [
+        {
+          "text": "Financial Information Provider"
+        },
+        {
+          "text": "Financial Information User"
+        },
+        {
+          "text": "FIP"
+        },
+        {
+          "text": "FIP and FIU"
+        },
+        {
+          "text": "FIP and FIU, What are these"
+        },
+        {
+          "text": "FIU"
+        },
+        {
+          "text": "What are FIPs and FIUs?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "call the manager"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "get me a person"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "I don't want to speak with a robot"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "I dont want to talk to a computer"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want to speak to a human"
+        },
+        {
+          "text": "I want to speak to a person"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I want to talk to the manager"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "representative"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "talk to a human"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "You there"
+        }
+      ],
+      "description": "Greetings"
+    },
+    {
+      "intent": "Goodbye",
+      "examples": [
+        {
+          "text": "arrivederci"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "so long"
+        }
+      ],
+      "description": "Good byes"
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "can you assist me"
+        },
+        {
+          "text": "can you help"
+        },
+        {
+          "text": "help"
+        },
+        {
+          "text": "help me"
+        },
+        {
+          "text": "help me decide"
+        },
+        {
+          "text": "i need assistance"
+        },
+        {
+          "text": "what can i do"
+        },
+        {
+          "text": "what can i say"
+        }
+      ],
+      "description": "Ask for help"
+    },
+    {
+      "intent": "Okay",
+      "examples": [
+        {
+          "text": "Alright"
+        },
+        {
+          "text": "Ok"
+        },
+        {
+          "text": "Okay"
+        },
+        {
+          "text": "Okayyy"
+        },
+        {
+          "text": "Yep, anything else?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Stocks",
+      "examples": [
+        {
+          "text": "Information on Stocks"
+        },
+        {
+          "text": "Investment options"
+        },
+        {
+          "text": "Stock investment info"
+        },
+        {
+          "text": "Stock Investments"
+        },
+        {
+          "text": "Stocks"
+        },
+        {
+          "text": "What's present on stocks"
+        },
+        {
+          "text": "Whats present on stocks?"
+        },
+        {
+          "text": "What stock options I have?"
+        },
+        {
+          "text": "Where should I invest"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "i appreciate it"
+        },
+        {
+          "text": "many thanks"
+        },
+        {
+          "text": "much appreciated"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "that's nice of you"
+        },
+        {
+          "text": "thx"
+        }
+      ],
+      "description": "Thanks"
+    },
+    {
+      "intent": "ZenMoneyintro",
+      "examples": [
+        {
+          "text": "Infy.Money"
+        },
+        {
+          "text": "InfyMoney"
+        },
+        {
+          "text": "What InfyMoney"
+        },
+        {
+          "text": "What is Infy Money"
+        },
+        {
+          "text": "What is Infy.Money"
+        },
+        {
+          "text": "What is the function of Infy.Money"
+        },
+        {
+          "text": "What is Zena Fin"
+        },
+        {
+          "text": "Whats Zena Fin"
+        },
+        {
+          "text": "Zena fin"
+        },
+        {
+          "text": "ZenaFIn"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "reply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "definitely not",
+            "don't think so",
+            "dont think so",
+            "i think not",
+            "nope",
+            "not at this time",
+            "not now"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "definitely",
+            "go for it",
+            "let's do it",
+            "ok",
+            "please",
+            "sure",
+            "why not",
+            "yeah",
+            "yep",
+            "yes",
+            "you bet",
+            "you betcha"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "Safe",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Safe",
+          "synonyms": [
+            "Is my data misused",
+            "Is my data safe",
+            "Is the data safe",
+            "Its safe right",
+            "My bank data is not safe"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "sys-number",
+      "values": []
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "https://infy-money-nodejs.herokuapp.com/api/users/mobile/9999999999",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "FinancialPlanning",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Financial Planning is essential for you and your future. Its not late, you can start now and grow financially. Here some easy way to start...\n1. Understand your current financial situation\n2. Figure out your financial goals\n3. Look at the different investment options\n4. Implement the right plan\n5. Monitor your financial plan regularly\n\nHere is a good <a href=\"https://mitsloan.mit.edu/ideas-made-to-matter/6-strategies-financial-planning-unknown\">article</a> with focus on covid19 based scenario"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#FinancialPlan",
+      "dialog_node": "node_10_1633771788433",
+      "previous_sibling": "node_4_1570050459690"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good afternoon",
+            "Hi there. It's a beautiful afternoon",
+            "Good afternoon. How can I help?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('12:00:00') && now().before('16:59:59')",
+      "dialog_node": "node_1_1495022305143",
+      "previous_sibling": "node_16_1488295517679"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "So long",
+            "See ya",
+            "Good bye"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Goodbye",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_12_1468329566917",
+      "previous_sibling": "node_10_1633771788433"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "metadata": {},
+      "conditions": "#General_Greetings",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_13_1502484041694",
+      "previous_sibling": "node_7_1634406071134"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good evening",
+            "Hi. Good evening",
+            "Hello. How can I help this evening?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('17:00:00')",
+      "dialog_node": "node_15_1488295465298",
+      "previous_sibling": "node_1_1495022305143"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good morning",
+            "It's a beautiful morning. Hello",
+            "Hi there. How can I help you this morning?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('04:00:00') && now().before('11:59:59')",
+      "dialog_node": "node_16_1488295517679"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "OK. Transferring... [Use IBM Cloud Functions to connect to backend systems]"
+          ]
+        }
+      },
+      "parent": "node_22_1467833484410",
+      "metadata": {},
+      "conditions": "@reply:yes",
+      "dialog_node": "node_19_1468350024009"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": "OK. Let me know how I can help"
+      },
+      "parent": "node_22_1467833484410",
+      "metadata": {},
+      "conditions": "@reply:no",
+      "dialog_node": "node_21_1468350173406",
+      "previous_sibling": "node_19_1468350024009"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "I didn't understand can you try again"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "digress_in": "returns",
+      "dialog_node": "node_2_1467831978407",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_12_1468329566917",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "You're welcome. Just let me know if you need anything else",
+            "No problem. Just let me know if you need anything else",
+            "My pleasure. Just let me know if you need anything else"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Thanks",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1468243505617",
+      "previous_sibling": "node_13_1502484041694"
+    },
+    {
+      "type": "standard",
+      "title": "ZenMoneyintro",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Zena Fin is an Personal Finance and Management app for your financial needs. It works with your financial data to give you insightful view on you cumulative spending and other transaction summarized details. It also provides services recommendation based on your activities. We are coming up with features that will make your financial life way for scientific and growing with individual friendly management, very soon!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#ZenMoneyintro",
+      "dialog_node": "node_2_1633778150800",
+      "previous_sibling": "node_6_1633771644979"
+    },
+    {
+      "type": "standard",
+      "title": "Please transfer me to an agent",
+      "output": {
+        "text": {
+          "values": [
+            "Would you like me to transfer you to customer care or representative?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#General_Connect_to_Agent",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_22_1467833484410",
+      "digress_out": "allow_all_never_return",
+      "previous_sibling": "node_2_1468243505617"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello",
+            "Hi there",
+            "Hi. How can I help"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "dialog_node": "node_28_1522448362216",
+      "previous_sibling": "node_15_1488295465298"
+    },
+    {
+      "type": "standard",
+      "title": "Sharing consent",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes. Registering with an AA is fully voluntary for consumers. \nIf the bank the consumer is using has joined the network, a person can choose to register on an AA, choose which accounts they want to link, and share their data from one of their accounts for some specific purpose to a new lender or financial institution at the stage of giving ‘consent’ via one of the Account Aggregators. A customer can reject a consent to share request at any time. \nIf a consumer has accepted to share data in a recurring manner over a period (eg: during a loan period), it can also be revoked at any time later as well by the consumer."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Dataconsent",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1633497830888",
+      "previous_sibling": "node_5_1633497174417"
+    },
+    {
+      "type": "standard",
+      "title": "FIP&FIU",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "An FIP, is a financial information provider—like a bank or an insurance company—that is able to share financial data around a user of their product or service.\n\nAn FIU, or financial information user, is an entity that is requesting for data from an FIP—for their customer—for purposes like verification or enabling financial products for users."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#FIU",
+      "dialog_node": "node_3_1633782832463",
+      "previous_sibling": "node_5_1633498170994"
+    },
+    {
+      "type": "standard",
+      "title": "okay",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yep, anything else? Type AA for information of account aggregator!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Okay",
+      "dialog_node": "node_3_1633798076603",
+      "previous_sibling": "node_2_1633778150800"
+    },
+    {
+      "type": "standard",
+      "title": "What can I do",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can give you information regarding Zena Fin, can help you with a good financial plan with appropriate resources, can connect you to one of our representatives. "
+              },
+              {
+                "text": "You could also ask me to connect you to an agent."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Help",
+      "dialog_node": "node_4_1570050459690",
+      "previous_sibling": "node_22_1467833484410"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your data is absolutely safe, Account Aggregators cannot see the data; they merely take it from one financial institution to another based on an individual's direction and consent. Contrary to the name, they cannot 'aggregate' your data. AAs are not like technology companies which aggregate your data and create detailed profiles of you. \nZena Fin uses account aggregator network, we don't access your data for any other purpose beside Personal Financial Management."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "@Safe:Safe",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1633497174417",
+      "previous_sibling": "node_7_1633496898056"
+    },
+    {
+      "type": "standard",
+      "title": "Invest",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Get insights on present stock prices and value: <a href=\"https://www.nseindia.com/\">NSE INDIA</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Stocks",
+      "dialog_node": "node_5_1633498170994",
+      "previous_sibling": "node_3_1633497830888"
+    },
+    {
+      "type": "standard",
+      "title": "AboutZena",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, I’m Zena. I am virtual assistant.  I can help with any information regarding Zena Fin or general information for your financial growth. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AboutZena",
+      "dialog_node": "node_6_1633771644979",
+      "previous_sibling": "Opening"
+    },
+    {
+      "type": "standard",
+      "title": "Account Aggregator",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "An Account Aggregator (AA) is a type of RBI regulated entity (with an NBFC-AA license) that helps an individual securely and digitally access and share information from one financial institution they have an account with to any other regulated financial institution in the AA network. \n<a href=\"https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=3142\">Official RBI Info</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AccountAggregator",
+      "dialog_node": "node_7_1633496898056",
+      "previous_sibling": "node_3_1633798076603"
+    },
+    {
+      "type": "standard",
+      "title": "Financial Growth",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Financial growth is key for unlocking full potential and growth of your personal finance. Some steps you should take from today, \n1. Understanding your financial status\n2. Investing in small amount\n3. Understanding financial flow\n4. Asset management and dynamics <br>\nHere are some articles for more enlightenment <a href=\"https://hbswk.hbs.edu/Pages/browse.aspx?HBSTopic=Personal%20Finance\"> Harvard Reviews Personal Finances </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#FinancialGrowth",
+      "dialog_node": "node_7_1634406071134",
+      "previous_sibling": "node_3_1633782832463"
+    },
+    {
+      "type": "standard",
+      "title": "Opening",
+      "output": {
+        "text": {
+          "values": [
+            "Hello, I’m Zena. I am virtual assistant.  I can help with any information regarding Zena Fin or general information for your financial growth."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "context": {
+        "no_reservation": true
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "dialog_node": "Opening"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Customer Care Sample Skill",
+  "language": "en",
+  "description": "Sample simple customer service skill to get you started."
+}
